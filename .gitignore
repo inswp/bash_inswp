@@ -1,0 +1,13 @@
+# Tarballs
+*.gz
+*.xz
+*.zip
+
+# Backup files
+*.swp
+*.orig
+*~
+
+# Don't commit these dirs
+/__archived
+/_bash_inswp
