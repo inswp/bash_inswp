@@ -24,7 +24,11 @@ Usage of scripts assumes a regular Linux environment, with bash shell and common
 
 Clones [WordPress Plugin Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate) and replaces all strings to match values given in config file
 
+### 2. [WP Simple Plugin](https://github.com/inswp/bash_inswp/tree/master/wp_simple_plugin)
+
+Creates the skeleton for a very simple plugin (a few functions/enqueue a couple of fonts or scripts, etc)
+
 ## Changelog
 
-20190622 - added `wp_simple_plugin` script
-20190620 - Started repo, added `wp-plugin-creator` script
++ 20190622 - added `wp_simple_plugin` script
++ 20190620 - Started repo, added `wp-plugin-creator` script
