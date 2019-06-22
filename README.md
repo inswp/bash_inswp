@@ -26,4 +26,5 @@ Clones [WordPress Plugin Boilerplate](https://github.com/DevinVinson/WordPress-P
 
 ## Changelog
 
+20190622 - added `wp_simple_plugin` script
 20190620 - Started repo, added `wp-plugin-creator` script
